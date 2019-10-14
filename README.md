@@ -1,2 +1,2 @@
 # 15-puzzle-
-15 puzzle using manhattan distance and haming distance in c
+15 puzzle using Manhattan distance and Haming distance in c
